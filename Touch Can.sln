@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Touch Can", "Touch Can.csproj", "{C1B42167-B97D-02E7-3CB0-56D9F226A62B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Touch Can.Editor", "Touch Can.Editor.csproj", "{D206272E-CE04-9CF9-C03A-D94E7D35E49E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1B42167-B97D-02E7-3CB0-56D9F226A62B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1B42167-B97D-02E7-3CB0-56D9F226A62B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1B42167-B97D-02E7-3CB0-56D9F226A62B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1B42167-B97D-02E7-3CB0-56D9F226A62B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D206272E-CE04-9CF9-C03A-D94E7D35E49E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D206272E-CE04-9CF9-C03A-D94E7D35E49E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D206272E-CE04-9CF9-C03A-D94E7D35E49E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D206272E-CE04-9CF9-C03A-D94E7D35E49E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

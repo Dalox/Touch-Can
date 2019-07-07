@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/PepsiSong.unity
+    guid: 17906d17740a9e644b9a13ab15e6f7e2
+  - enabled: 0
+    path: Assets/Scenes/TouchTest.unity
+    guid: 8a712b294ef9deb46a40ae83c85f605f
